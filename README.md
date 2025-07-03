@@ -1,13 +1,17 @@
 <!-- Profilingizga animatsiyali banner qo'shish -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4CAF50&lines=Hi+there!+I'm+Sharafiddin+%F0%9F%91%8B;Full+Stack+.NET+Developer;Passionate+about+Blazor,+EF+Core,+Cloud;Learning+every+day+%F0%9F%93%9A" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=4CAF50&lines=Hi+there!+I'm+Sharafiddin+%F0%9F%91%8B;Full+Stack+.NET+Developer;Passionate+about+Blazor,+EF+Core,+Cloud;Building+Real+Projects+Daily+%F0%9F%93%9A" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SharafiddinMukhtorov&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **.NET 9**, **Microservices**, and **Docker + Azure Deployment**
+- ⚙️ I'm deepening my expertise in **.NET 9**, **Microservices**, and **Docker + Azure Deployment**
 - ⚡ Interests: Clean Architecture, Real-time apps (SignalR / Fusion), Game marketplaces
 - 🔭 Currently building: **Lootsy** – a secure gaming marketplace with chat and trust system
 
@@ -38,6 +42,22 @@
 
 ---
 
+### 🗂️ Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharafiddinMukhtorov&layout=compact&langs_count=8&theme=radical" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SharafiddinMukhtorov&theme=radical&row=1&column=7" />
+</p>
+
+---
+
 ### 📫 Let's Connect
 
 - 📧 Email: **sharafiddin.muxtorov2007@gmail.com**
@@ -47,4 +67,3 @@
 ---
 
 > _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
-
