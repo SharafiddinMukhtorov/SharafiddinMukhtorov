@@ -8,7 +8,6 @@
 ### 👨‍💻 About Me
 
 - 🌱 I’m currently learning **.NET 9**, **Microservices**, and **Docker + Azure Deployment**
-- 💼 Working as a **.NET Full Stack Developer** at **Uztelecom**
 - ⚡ Interests: Clean Architecture, Real-time apps (SignalR / Fusion), Game marketplaces
 - 🔭 Currently building: **Lootsy** – a secure gaming marketplace with chat and trust system
 
@@ -33,17 +32,17 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SharafiddinMukhtorov&show_icons=true&theme=radical&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SharafiddinMukhtorov&theme=radical" height="180"/>
 </p>
 
 ---
 
 ### 📫 Let's Connect
 
-- 📧 Email: **sharafiddin.dev@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/sharafiddin](https://www.linkedin.com/in/sharafiddin)
-- 🌐 Telegram: [@sharafiddin_dev](https://t.me/sharafiddin_dev)
+- 📧 Email: **sharafiddin.muxtorov2007@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/sharafiddin](https://www.linkedin.com/in/sharafiddin-mukhtorov-376672274/)
+- 🌐 Telegram: [@MukhtorovSh](https://t.me/MukhtorovSh)
 
 ---
 
