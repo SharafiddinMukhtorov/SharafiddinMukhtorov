@@ -12,8 +12,7 @@
 ### 👨‍💻 About Me
 
 - ⚙️ I'm deepening my expertise in **.NET 9**, **Microservices**, and **Docker + Azure Deployment**
-- ⚡ Interests: Clean Architecture, Real-time apps (SignalR / Fusion), Game marketplaces, Billing System
-- 🔭 Currently building: **Lootsy** – a secure gaming marketplace with chat and trust system
+- ⚡ Interests: Clean Architecture, Real-time apps (SignalR / Fusion), Billing System
 
 ---
 
