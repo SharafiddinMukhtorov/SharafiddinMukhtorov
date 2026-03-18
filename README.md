@@ -33,27 +33,10 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SharafiddinMukhtorov&show_icons=true&theme=radical&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SharafiddinMukhtorov&theme=radical" height="180"/>
-</p>
-
----
-
 ### 🗂️ Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharafiddinMukhtorov&layout=compact&langs_count=8&theme=radical" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SharafiddinMukhtorov&theme=radical&row=1&column=2" />
 </p>
 
 ---
